@@ -160,7 +160,7 @@ All charts are auto-generated when you run the script and saved to the `/charts`
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/walmart-sales-analysis.git
+git clone https://github.com/GitSubham-00/walmart-sales-analysis.git
 cd walmart-sales-analysis
 ```
 
@@ -233,8 +233,8 @@ Dataset sourced from Kaggle:
 **[Subham Maity]**  
 Aspiring Data Analyst | Python • SQL • Data Visualization
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/subhammaity)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/GitSubham-00)
 
 ---
 
